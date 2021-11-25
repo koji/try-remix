@@ -1,1 +1,4 @@
 # try-remix
+
+- blog
+- joke 
